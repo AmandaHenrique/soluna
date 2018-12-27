@@ -1,0 +1,28 @@
+div.card img:hover
+{ 
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+}
+
+div.card#um:hover
+{ 
+    transform: scale(1.05);
+    transition: 0.5s;
+
+}
+div.card#dois:hover
+{ 
+    transform: scale(1.05);
+    transition: 0.5s;
+
+}
+
+div.card#tres:hover
+{ 
+    transform: scale(1.05);
+    transition: 0.5s;
+
+}
+
+
+
